@@ -1,2 +1,3 @@
 # KDE_1D
- Univariate kernel density esstimation example
+ 
+ Implementation of Gaussian kernel density estimation in Python using Numpy, Scipy, and Scikit-learn.
